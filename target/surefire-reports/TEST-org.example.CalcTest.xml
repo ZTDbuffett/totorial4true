@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="org.example.CalcTest" time="0.028" tests="1" errors="0" skipped="0" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="org.example.CalcTest" time="0.026" tests="1" errors="0" skipped="0" failures="1">
   <properties>
     <property name="java.specification.version" value="22"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="GBK"/>
-    <property name="java.class.path" value="C:\Users\Lenovo\Desktop\Tutorial4\tutorial4\target\test-classes;C:\Users\Lenovo\Desktop\Tutorial4\tutorial4\target\classes;C:\Users\Lenovo\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.4.0\junit-jupiter-engine-5.4.0.jar;C:\Users\Lenovo\.m2\repository\org\apiguardian\apiguardian-api\1.0.0\apiguardian-api-1.0.0.jar;C:\Users\Lenovo\.m2\repository\org\junit\platform\junit-platform-engine\1.4.0\junit-platform-engine-1.4.0.jar;C:\Users\Lenovo\.m2\repository\org\opentest4j\opentest4j\1.1.1\opentest4j-1.1.1.jar;C:\Users\Lenovo\.m2\repository\org\junit\platform\junit-platform-commons\1.4.0\junit-platform-commons-1.4.0.jar;C:\Users\Lenovo\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.4.0\junit-jupiter-api-5.4.0.jar;"/>
+    <property name="java.class.path" value="C:\Users\Lenovo\Desktop\Tutorial4\tutorial4\target\test-classes;C:\Users\Lenovo\Desktop\Tutorial4\tutorial4\target\classes;C:\apache-maven-3.9.8-bin\repository\org\junit\jupiter\junit-jupiter-engine\5.4.0\junit-jupiter-engine-5.4.0.jar;C:\apache-maven-3.9.8-bin\repository\org\apiguardian\apiguardian-api\1.0.0\apiguardian-api-1.0.0.jar;C:\apache-maven-3.9.8-bin\repository\org\junit\platform\junit-platform-engine\1.4.0\junit-platform-engine-1.4.0.jar;C:\apache-maven-3.9.8-bin\repository\org\opentest4j\opentest4j\1.1.1\opentest4j-1.1.1.jar;C:\apache-maven-3.9.8-bin\repository\org\junit\platform\junit-platform-commons\1.4.0\junit-platform-commons-1.4.0.jar;C:\apache-maven-3.9.8-bin\repository\org\junit\jupiter\junit-jupiter-api\5.4.0\junit-jupiter-api-5.4.0.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="CN"/>
     <property name="sun.boot.library.path" value="C:\Users\Lenovo\.jdks\openjdk-22.0.2\bin"/>
-    <property name="sun.java.command" value="C:\Users\Lenovo\AppData\Local\Temp\surefire9810673635619611240\surefirebooter-20241009152544646_3.jar C:\Users\Lenovo\AppData\Local\Temp\surefire9810673635619611240 2024-10-09T15-25-42_051-jvmRun1 surefire-20241009152544646_1tmp surefire_0-20241009152544646_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\Lenovo\AppData\Local\Temp\surefire7126639479007781295\surefirebooter-20241009153730644_3.jar C:\Users\Lenovo\AppData\Local\Temp\surefire7126639479007781295 2024-10-09T15-37-30_536-jvmRun1 surefire-20241009153730644_1tmp surefire_0-20241009153730644_2tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\Lenovo\Desktop\Tutorial4\tutorial4\target\test-classes;C:\Users\Lenovo\Desktop\Tutorial4\tutorial4\target\classes;C:\Users\Lenovo\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.4.0\junit-jupiter-engine-5.4.0.jar;C:\Users\Lenovo\.m2\repository\org\apiguardian\apiguardian-api\1.0.0\apiguardian-api-1.0.0.jar;C:\Users\Lenovo\.m2\repository\org\junit\platform\junit-platform-engine\1.4.0\junit-platform-engine-1.4.0.jar;C:\Users\Lenovo\.m2\repository\org\opentest4j\opentest4j\1.1.1\opentest4j-1.1.1.jar;C:\Users\Lenovo\.m2\repository\org\junit\platform\junit-platform-commons\1.4.0\junit-platform-commons-1.4.0.jar;C:\Users\Lenovo\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.4.0\junit-jupiter-api-5.4.0.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\Lenovo\Desktop\Tutorial4\tutorial4\target\test-classes;C:\Users\Lenovo\Desktop\Tutorial4\tutorial4\target\classes;C:\apache-maven-3.9.8-bin\repository\org\junit\jupiter\junit-jupiter-engine\5.4.0\junit-jupiter-engine-5.4.0.jar;C:\apache-maven-3.9.8-bin\repository\org\apiguardian\apiguardian-api\1.0.0\apiguardian-api-1.0.0.jar;C:\apache-maven-3.9.8-bin\repository\org\junit\platform\junit-platform-engine\1.4.0\junit-platform-engine-1.4.0.jar;C:\apache-maven-3.9.8-bin\repository\org\opentest4j\opentest4j\1.1.1\opentest4j-1.1.1.jar;C:\apache-maven-3.9.8-bin\repository\org\junit\platform\junit-platform-commons\1.4.0\junit-platform-commons-1.4.0.jar;C:\apache-maven-3.9.8-bin\repository\org\junit\jupiter\junit-jupiter-api\5.4.0\junit-jupiter-api-5.4.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\Lenovo"/>
     <property name="user.language" value="zh"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\Lenovo\AppData\Local\Temp\surefire9810673635619611240\surefirebooter-20241009152544646_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Lenovo\AppData\Local\Temp\surefire7126639479007781295\surefirebooter-20241009153730644_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="22.0.2+9-70"/>
@@ -41,9 +41,10 @@
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="file.encoding" value="UTF-8"/>
     <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
-    <property name="localRepository" value="C:\Users\Lenovo\.m2\repository"/>
+    <property name="localRepository" value="C:\apache-maven-3.9.8-bin\repository"/>
     <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
     <property name="java.io.tmpdir" value="C:\Users\Lenovo\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2024.2"/>
     <property name="java.version" value="22.0.2"/>
     <property name="user.dir" value="C:\Users\Lenovo\Desktop\Tutorial4\tutorial4"/>
     <property name="os.arch" value="amd64"/>
@@ -56,10 +57,11 @@
     <property name="java.vendor" value="Oracle Corporation"/>
     <property name="java.vm.version" value="22.0.2+9-70"/>
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="maven.repo.local" value="C:\apache-maven-3.9.8-bin\repository"/>
     <property name="java.class.version" value="66.0"/>
   </properties>
-  <testcase name="testAddition" classname="org.example.CalcTest" time="0.013">
-    <failure message="expected: &lt;4&gt; but was: &lt;5&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <4> but was: <5>
+  <testcase name="testAddition" classname="org.example.CalcTest" time="0.012">
+    <failure message="expected: &lt;99&gt; but was: &lt;4&gt;" type="org.opentest4j.AssertionFailedError"><![CDATA[org.opentest4j.AssertionFailedError: expected: <99> but was: <4>
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
 	at org.junit.jupiter.api.AssertEquals.failNotEqual(AssertEquals.java:195)
 	at org.junit.jupiter.api.AssertEquals.assertEquals(AssertEquals.java:152)
